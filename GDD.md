@@ -32,9 +32,8 @@ En este juego para un jugador, un aventurero entra en una fortaleza abandonada q
 
 1. **Movimiento preciso:** los saltos y desplazamientos deben responder de forma predecible y permitir que el jugador mejore mediante la práctica.
 2. **Exploración mediante habilidades:** el jugador encuentra accesos que todavía no puede superar y regresa a ellos después de conseguir una nueva capacidad de movimiento.
-3. **Combate legible:** los enemigos anuncian sus ataques y ofrecen momentos en los que el jugador puede acercarse, golpear y retirarse.
-4. **Dificultad progresiva:** cada zona introduce un reto y posteriormente lo combina con mecánicas que el jugador ya conoce.
-5. **Coherencia del escenario:** toda la fortaleza se construye con un único pack, Critters — Old Castle Tileset, manteniendo un lenguaje visual común.
+3. **Dificultad progresiva:** cada zona introduce un reto y posteriormente lo combina con mecánicas que el jugador ya conoce.
+4. **Coherencia del escenario:** toda la fortaleza se construye con un único pack, Critters — Old Castle Tileset, manteniendo un lenguaje visual común.
 
 ### Referencias
 
@@ -254,7 +253,7 @@ Se importarán únicamente los elementos que vayan a utilizarse. No se prevé im
 
 | Herramienta | Uso en la preparación de este hito |
 |---|---|
-| ChatGPT | Organización de requisitos; redacción y revisión del GDD; búsqueda de recursos; adaptación a la plantilla del profesor. |
+| ChatGPT | Organización de requisitos, redacción y revisión del GDD, búsqueda de recursos y adaptación a la plantilla del profesor. |
 
 - No se han generado recursos gráficos del juego, música, efectos de sonido ni efectos visuales mediante IA en esta preparación.
 - La página de Old Castle declara que no se ha utilizado IA generativa en su creación.
