@@ -19,7 +19,7 @@
 | Versión de Unity y pipeline | Unity 6 - URP, plantilla Universal 2D. |
 | Público objetivo y PEGI | Jugadores que disfrutan del combate cuerpo a cuerpo, los retos de plataformas y la exploración con desbloqueo de rutas. PEGI 12 orientativo por combate fantástico; no es una clasificación oficial. |
 | Duración de una partida | Objetivo inicial: 15–25 minutos para completar el recorrido principal, sin contar reintentos. |
-| Repositorio | [](https://github.com/albertorodriguezdam/Ecos-de-la-Fortaleza.git) |
+| Repositorio | [GitHub](https://github.com/albertorodriguezdam/Ecos-de-la-Fortaleza.git) |
 | Página de itch.io | Pendiente de crear y añadir el enlace. |
 
 ## 2. Concepto
