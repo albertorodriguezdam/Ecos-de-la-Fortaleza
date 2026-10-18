@@ -104,13 +104,13 @@ Se proponen tres niveles diferenciados, cada uno en una escena de juego propia y
 
 ## 5. Mecánicas
 
-Los controles de teclado son provisionales. Los parámetros se ajustarán durante el prototipado.
+Los controles de teclado son orientativos. 
 
 | Mecánica | Descripción | Control | Nivel en el que aparece |
 |---|---|---|---|
 | Movimiento horizontal | Desplazamiento a izquierda y derecha, el personaje mira en la dirección del movimiento. | A / D o flechas izquierda / derecha. | Zona 1, desde el inicio. |
 | Salto | Impulso vertical desde el suelo, con control horizontal en el aire. | Espacio. | Zona 1, desde el inicio. |
-| Ataque con espada | Ataque frontal de corto alcance. Solo causa daño durante la parte activa de la animación. | J. | Zona 1, desde el inicio. |
+| Ataque con espada | Ataque frontal de corto alcance. Solo causa daño durante la parte activa de la animación. | E. | Zona 1, desde el inicio. |
 | Doble salto | Permite realizar un segundo salto en el aire después de obtener su reliquia. Se recupera al tocar suelo. | Espacio durante el salto. | Se desbloquea en la zona 1 y permite acceder a la zona 2. |
 | Dash | Desplazamiento horizontal breve en la dirección hacia la que mira el personaje. Se puede realizar en suelo o en el aire. | Mayús izquierda. | Se desbloquea en la zona 2 y permite acceder a la zona 3. |
 | Obtención de habilidades | Recoger una reliquia activa permanentemente su habilidad durante la partida. | Contacto con la reliquia. | Zonas 1 y 2. |
@@ -136,11 +136,7 @@ Los controles de teclado son provisionales. Los parámetros se ajustarán durant
 
 ## 6. Controles
 
-Pendiente de desarrollar en el hito 2. Los controles de teclado previstos aparecen en el apartado 5, aunque no son definitivos.
-
-| Acción | Teclado | Mando |
-|--------|---------|-------|
-| | | |
+Pendiente de desarrollar.
 
 ## 7. Niveles
 
@@ -156,13 +152,11 @@ Pendiente de desarrollar.
 
 ## 10. Dirección de arte
 
-El estilo previsto es pixel art de fantasía medieval, con una fortaleza deteriorada formada por murallas de piedra, galerías y torres. El escenario se construirá con Critters — Old Castle Tileset. La legibilidad de plataformas, ataques y peligros tendrá prioridad.
-
-**Pendiente para el hito 4:** concretar la paleta, las tipografías, el tablero de referencias y los ajustes necesarios para mantener la coherencia visual.
+El estilo previsto es pixel art de fantasía medieval, con una fortaleza deteriorada formada por murallas de piedra, galerías y torres. 
 
 ## 11. Sonido y música
 
-Pendiente de desarrollar. En futuros hitos se seleccionarán música y efectos de sonido gratuitos con licencias compatibles.
+Pendiente de desarrollar. 
 
 ## 12. Efectos visuales y game feel
 
